@@ -1,0 +1,16 @@
+/* TEAM */
+    Chef: Rainy Day Media, LLC.
+    Contact: hello [at] rainydaymedia.net
+    Twitter: @rainydaymedia
+    From: Dayton, Ohio, USA
+
+    UI/UX developer: Ed Heltzel
+    Twitter: @ginfuru
+    From: Dayton, Ohio, USA
+
+/* SITE */
+    Last update:
+    Standards: HTML5, CSS3 [SCSS], PHP [Wordpress Flavor]
+    Components: Modernizr, jQuery, Google Fonts
+    IDE: Sublime Text, Transmit, iTerm2, Photoshop
+    Software: Node [NPM], Gulp, Bower, Vagrant, SASS, Autoprefixer
