@@ -1,16 +1,29 @@
 /* TEAM */
-    Chef: Rainy Day Media, LLC.
-    Contact: hello [at] rainydaymedia.net
-    Twitter: @rainydaymedia
-    From: Dayton, Ohio, USA
+	Chef: Ed Heltzel of Rainy Day Media LLC
+	Contact: ed[at]rainydaymedia.net
+	Twitter: @ginfuru
+	From: Dayton, Ohio USA
 
-    UI/UX developer: Ed Heltzel
-    Twitter: @ginfuru
-    From: Dayton, Ohio, USA
+	Sous-Chef: Jesse Masin of Rainy Day Media LLC
+	Contact: jesse[at]rainydaymedia.net
+	From: Dayton, Ohio USA
+
+	Developer: Dustin Armstrong
+	Twitter: @dustinarmstrong
+	From: Dayton, Ohio USA
+
+	Developer: Todd Miller
+	Twitter: @toddses
+	From: Dayton, Ohio USA
+
+/* SPECIAL MENTION */
+	Copywriter: Maria Ann Norman
+	From: Dayton, Ohio USA
 
 /* SITE */
     Last update:
-    Standards: HTML5, CSS3 [SCSS], PHP [Wordpress Flavor]
-    Components: Modernizr, jQuery, Google Fonts
-    IDE: Sublime Text, Transmit, iTerm2, Photoshop
-    Software: Node [NPM], Gulp, Bower, Vagrant, SASS, Autoprefixer
+    Web Languages: HTML5, SASS (SCSS flavoer), PHP, jQuery
+    Web Components: Modernizr, jQuery, Google Fonts or brick.im
+    Development IDE: Sublime Text, Transmit, Git
+    Design IDE: Adobe Photoshop, Adobe Illustrator,
+    Software: NPM (for Node), Composer (for PHP), Gulp, Bower, Vagrant, Virtual Box,
