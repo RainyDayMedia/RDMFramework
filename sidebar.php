@@ -30,3 +30,4 @@
 
 		<?php endif; // end sidebar widget area ?>
 	</div><!-- #secondary -->
+loop
