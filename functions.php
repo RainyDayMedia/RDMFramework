@@ -20,6 +20,7 @@ if ( ! function_exists( 'rdm_setup' ) ) :
  * runs before the init hook. The init hook is too late for some features, such
  * as indicating support for post thumbnails.
  */
+
 function rdm_setup() {
 
 	/*
@@ -35,10 +36,8 @@ function rdm_setup() {
 
 	/*
 	 * Enable support for Post Thumbnails on posts and pages.
-	 *
-	 * @link http://codex.wordpress.org/Function_Reference/add_theme_support#Post_Thumbnails
 	 */
-	//add_theme_support( 'post-thumbnails' );
+	add_theme_support( 'post-thumbnails' );
 
 	// This theme uses wp_nav_menu() in one location.
 	register_nav_menus( array(
@@ -99,6 +98,11 @@ function rdm_scripts() {
 	}
 }
 add_action( 'wp_enqueue_scripts', 'rdm_scripts' );
+
+/**
+ * Including Advanced Custom Fields.
+ */
+include_once('/inc/advanced-custom-fields/acf.php' );
 
 /**
  * Implement the Custom Header feature.
