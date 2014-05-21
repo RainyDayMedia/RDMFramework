@@ -1,0 +1,41 @@
+/*
+Theme Name: RDMFramework
+Theme URI: https://github.com/ginfuru/RDMFramework
+Author: Rainy Day Media LLC
+Author URI: http://rainydaymedia.net
+Description: A blank starter and parent theme for rapid HTML5 development
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: rdm
+Domain Path: /languages/
+*/
+
+/*******************************************************************
+  THIS FILE IS WRITTEN WITH SASS ANY CHANGES YOU MAKE WILL BE LOST
+  CREATE A CHILD THEME FOR ALL YOUR HACKING NEEDS OR CUSTOM STYLES
+********************************************************************/
+
+
+// configure the style from settings
+@import 'settings';
+
+// reset styles should stay at the top
+@import 'reset';
+
+// move mixins to their own partial
+@import 'mixins';
+
+// feel free to add any new files you want; if you add them this list they'll be included
+@import 'global';
+@import 'typography';
+@import 'forms';
+@import 'layout';
+@import 'menu';
+@import 'content';
+@import 'postformats';
+@import 'media';
+@import 'navigation';
+@import 'comments';
+@import 'widgets';
+@import 'infinitescroll';
