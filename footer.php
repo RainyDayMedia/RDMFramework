@@ -14,7 +14,7 @@
 		<div class="site-info">
 			<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'rdm' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'rdm' ), 'WordPress' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s.', 'rdm' ), 'rdm', '<a href="http://rainydaymedia.net" rel="designer">Rainy Day Media, LLC.</a>' ); ?>
+			<?php printf( __( 'Theme: %1$s by %2$s.', 'rdm' ), 'rdm', '<a href="http://rainydaymedia.net" rel="designer-developer">Rainy Day Media LLC.</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
