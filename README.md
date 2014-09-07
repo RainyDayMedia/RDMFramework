@@ -25,7 +25,7 @@ This is a starter theme based on `_s` but with a few added features for the RDMW
 
 ---
 
-## To Do:
+#### To Do:
 - [ ] Add Advanced Custom Fields as required
 - [ ] Add support of child themes
 - [ ] Add Bower support
@@ -38,4 +38,34 @@ This is a starter theme based on `_s` but with a few added features for the RDMW
 
 ---
 
+#### Plugins to use:
+
+__Theme Development__
+
+* [ACF](http://www.advancedcustomfields.com/)
+* [RIU Responsive Images](http://wordpress.org/plugins/riu-responsive-image-uploader/screenshots/)
+
+__Dashboard Hacking__
+
+* [Enable Media Replacement](http://wordpress.org/plugins/enable-media-replace/)
+* [Members](https://wordpress.org/plugins/members/)
+* [Adminimize](https://wordpress.org/plugins/adminimize/)
+
+__Maintenance, Security & Support__
+
+* [BackupBuddy PREMIUM](http://ithemes.com/purchase/backupbuddy/)
+* [iThemes Security](http://ithemes.com/security/)
+
+__Client Usability (post deploy)__
+
+* [Wordpress SEO](http://wordpress.org/plugins/wordpress-seo/)
+* [W3 Total Cache](http://wordpress.org/plugins/w3-total-cache/)
+
+__Notable Mentions__
+
+* [Custom Post Type UI](http://wordpress.org/plugins/custom-post-type-ui/)
+* [Client Proof Visual Editor](http://wordpress.org/plugins/client-proof-visual-editor/)
+* [Redirection](http://wordpress.org/plugins/redirection/)
+* [WooCommerce - Ecom](http://www.woothemes.com/woocommerce/)
+* [Exchange - Ecom](http://ithemes.com/exchange/)
 
