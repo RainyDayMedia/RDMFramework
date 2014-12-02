@@ -1,7 +1,7 @@
 RDMShell
 ============
 
-This is a starter theme for Wordpress based on `_s` but with a few added features for the RDMWorkflow. This is to quickly start client projects with support for child themes. Though `_s` is not meant to be used with a parent/child theme RDM is modifying it to do this. This will be the bases of the future RDMShell _(an HTML5 Boilerplate and CSS Reset)_.
+This is a starter theme for Wordpress based on `_s` but with a few added features for the RDMWorkflow. This is to quickly start client projects with support for child themes. Though `_s` is not meant to be used with a parent/child theme RDM is modifying it to do this. This will be the bases of the future Frigoris _(an HTML5 Boilerplate and CSS Reset)_.
 
 <strong>This is an active work in progress</strong>
 
@@ -36,6 +36,7 @@ This is a starter theme for Wordpress based on `_s` but with a few added feature
 	- [ ] Update `rdm.php` for Wordpress 4.0+ support
 - [ ] Include theme options panel
 - [ ] Add RDM Shortcode plugin
+- [ ] Add CPT plugin
 
 ---
 
