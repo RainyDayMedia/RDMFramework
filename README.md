@@ -1,7 +1,7 @@
-RDMFramework
+RDMShell
 ============
 
-This is a starter theme based on `_s` but with a few added features for the RDMWorkflow. This is to quickly start client projects with support for child themes. Though `_s` is not meant to be used with a parent/child theme RDM is modifying it to do this. This will be the bases of the future RDMFramework.
+This is a starter theme for Wordpress based on `_s` but with a few added features for the RDMWorkflow. This is to quickly start client projects with support for child themes. Though `_s` is not meant to be used with a parent/child theme RDM is modifying it to do this. This will be the bases of the future RDMShell _(an HTML5 Boilerplate and CSS Reset)_.
 
 <strong>This is an active work in progress</strong>
 
@@ -11,10 +11,10 @@ This is a starter theme based on `_s` but with a few added features for the RDMW
 
 1. fork it
 2. clone it
-	* `git clone https://github.com/YOUR-USERNAME/RDMFramework`
+	* `git clone https://github.com/YOUR-USERNAME/RDMShell`
 3. build the next Wordpress __BAMF__!
-4. add the RDMFramework to your __upstream__:
-	* `git remote add upstream https://github.com/ginfuru/RDMFramework`
+4. add the RDMShell to your __upstream__:
+	* `git remote add upstream https://github.com/ginfuru/RDMShell`
 3. verify the upstream repo has been added
 	* ` git remote -v`
 4. then __fetch__ the latest changes the RDMCrew has made:
