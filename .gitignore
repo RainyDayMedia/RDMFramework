@@ -23,3 +23,11 @@ wp-content/cache/
 wp-content/backups/
 sitemap.xml.gz
 wp-config.php
+
+## node and bower dependencies
+node_modules/
+components/
+npm-debug.log
+
+## sass cache
+.sass-cache/
