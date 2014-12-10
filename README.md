@@ -12,10 +12,10 @@ This is a starter theme for Wordpress based on `_s` but with a few added feature
 1. fork it
 2. clone it
 	* `git clone https://github.com/YOUR-USERNAME/RDMShell`
-3. install bower components
-	* `bower install`
-4. install node components
+3. install node components
 	* `npm install`
+4. install bower components
+	* `bower install`
 5. build the next Wordpress __BAMF__!
 	* `gulp`
 6. add the RDMShell to your __upstream__:
@@ -64,7 +64,7 @@ __Maintenance, Security & Support__
 
 __Client Usability (post deploy)__
 
-* [Wordpress SEO](http://wordpress.org/plugins/wordpress-seo/)
+* [Wordpress SEO](http://wordpress.org/plugins/wordpress-seo/) _(also for breadcrumbs)_
 * [W3 Total Cache](http://wordpress.org/plugins/w3-total-cache/)
 
 __Notable Mentions__
