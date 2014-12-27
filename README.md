@@ -30,11 +30,11 @@ This is a starter theme for Wordpress based on `_s` but with a few added feature
 ---
 
 #### To Do:
-- [X] Add Advanced Custom Fields as required
+- [ ] Add Advanced Custom Fields as required
 - [ ] Add support of child themes
-- [X] Add Bower support
-- [X] Add Gulp workflow
-- [X] integration SCSS (looking at Sussy_)
+- [x] Add Bower support
+- [x] Add Gulp workflow
+- [x] integration SCSS (looking at Sussy_)
 - [ ] Create Custom Widgets for Social Media
 - [ ] Integrate `rdm.php` file to hack the Dashboard
 	- [ ] Update `rdm.php` for Wordpress 4.0+ support
