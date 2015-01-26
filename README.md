@@ -31,6 +31,7 @@ This is a starter theme for Wordpress based on `_s` but with a few added feature
 
 #### To Do:
 - [ ] Add Advanced Custom Fields as required
+- [ ] Add custom plugin for Custom Post Types _(make it required)_
 - [ ] Add support of child themes
 - [x] Add Bower support
 - [x] Add Gulp workflow
