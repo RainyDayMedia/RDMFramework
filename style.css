@@ -1,19 +1,21 @@
-/*
-Theme Name: RDMShell
-Theme URI: https://github.com/ginfuru/RDMShell
-Author: Rainy Day Media LLC
-Author URI: http://rainydaymedia.net
-Description: <a href="https://github.com/ginfuru/RDMShell">The RDMShell</a> A blank starter and parent theme for rapid HTML5 development
-Version: 1.0.1
-License: MIT Licenses
-License URI: http://opensource.org/licenses/MIT
-Text Domain: rdm
-Domain Path: /languages/
-*/
-/*******************************************************************
-  THIS FILE IS WRITTEN WITH SASS ANY CHANGES YOU MAKE WILL BE LOST
-  CREATE A CHILD THEME FOR ALL YOUR HACKING NEEDS OR CUSTOM STYLES
-********************************************************************/
+/*-----------------------------------------------------------------------------------
+
+    Theme Name: RDMFramework
+    Theme URI: https://github.com/RainyDayMedia/RDMShell
+    Description: A Wordpress shell for rapid html5 theme development
+    Author: Rainy Day Media LLC
+    Author URI: http://rainydaymedia.net
+    Version: 1.0.1
+    License: GNU General Public License version 3.0
+    License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+         ___   ___    _  _  ___ _____   __  __  ___  ___ ___ _____   __
+        |   \ / _ \  | \| |/ _ \_   _| |  \/  |/ _ \|   \_ _| __\ \ / /
+        | |) | (_) | | .` | (_) || |   | |\/| | (_) | |) | || _| \ V /
+        |___/ \___/  |_|\_|\___/ |_|   |_|  |_|\___/|___/___|_|   |_|
+
+           This file is generatored with SASS and will be overwritten
+              To add custom CSS add it to techtown/style.css
+-------------------------------------------------------------------------------------*/
 /* =Reset
 -------------------------------------------------------------- */
 html, body, div, span, applet, object, iframe,
